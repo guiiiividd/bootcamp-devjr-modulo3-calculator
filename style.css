@@ -20,7 +20,7 @@ body{
 }
 
 .calculator{
-    width: 300px;
+    width: 400px;
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
@@ -32,6 +32,7 @@ body{
 }
 
 input{
+    width: 90%;
     height: 22px;
     padding: 8px;
     font-size: 1.2rem;
